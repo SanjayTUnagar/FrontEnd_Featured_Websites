@@ -138,17 +138,18 @@ Professional dental clinic website focused on providing excellent patient experi
 
 </tr>
 
+
 <tr>
 
 <td width="50%">
 
-<h2 align="center">🦷 Bourne Dental</h2>
+<h2 align="center">🦷 A&W Dental</h2>
 
 <p align="center">
 
 <a href="https://YOUR-LIVE-LINK.com">
-<img width="100%" alt="bournedenta" src="https://github.com/user-attachments/assets/e6c5608c-0ee8-4098-8897-8c3e466c6dfb" />
 
+  <img width="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/cd889eb9-f063-4e47-a5d4-6690fe02257e" />
 
 </a>
 
@@ -156,35 +157,47 @@ Professional dental clinic website focused on providing excellent patient experi
 
 ### 📝 Overview
 
-Luxury dental website with modern landing page and premium branding.
+Modern Dental Practice Website with elegant UI, appointment booking, patient information pages and responsive design.
 
-### ⭐ Features
+### 🚀 Highlights
 
-✔ Responsive Design
+- 🎨 Premium UI Design
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+- 🔍 SEO Friendly
+- 📅 Appointment Booking
+- 💬 Contact Form
+- 🌙 Cross Browser Support
 
-✔ Premium Hero Section
+### 💻 Built With
 
-✔ CTA Buttons
+<p>
 
-✔ Google Reviews
-
-✔ Booking System
-
-✔ Testimonials
-
-✔ SEO Optimized
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
 
 </p>
+
+### 📊 Project Stats
+
+| Feature | Status |
+|---------|--------|
+| Responsive | ✅ |
+| SEO | ✅ |
+| Mobile Friendly | ✅ |
+| Performance | 95+ |
+| Accessibility | ✅ |
 
 <p align="center">
 
 <a href="https://YOUR-LIVE-LINK.com">
 
-<img src="https://img.shields.io/badge/View_Live-D97706?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
+
+</a>
+
+<a href="https://github.com/YOURUSERNAME">
+
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
 
 </a>
 
@@ -194,15 +207,14 @@ Luxury dental website with modern landing page and premium branding.
 
 <td width="50%">
 
-<h2 align="center">🦷 Broadway Dental Centre</h2>
+<h2 align="center">🦷 Bere Regis Dental</h2>
 
 <p align="center">
 
 <a href="https://YOUR-LIVE-LINK.com">
 
-<img width="100%" alt="broadwaydentalcentre" src="https://github.com/user-attachments/assets/fb2246ed-bbbc-4971-a7a4-b02dbf45d514" />
 
-
+<img width="100%" alt="bereregisdental" src="https://github.com/user-attachments/assets/fca0f7bd-cb6e-4321-9703-2aafad6773c0" />
 
 </a>
 
@@ -210,35 +222,41 @@ Luxury dental website with modern landing page and premium branding.
 
 ### 📝 Overview
 
-Corporate healthcare website with appointment booking, patient testimonials and responsive layout.
+Professional dental clinic website focused on providing excellent patient experience and responsive healthcare solutions.
 
-### ⭐ Features
+### 🚀 Highlights
 
-✔ Responsive
+- Responsive Layout
+- Modern Navigation
+- Google Maps
+- Contact Forms
+- Online Registration
+- SEO Ready
+- Optimized Images
 
-✔ Appointment Booking
+### 💻 Built With
 
-✔ Reviews
-
-✔ Services
-
-✔ Gallery
-
-✔ Contact
-
-✔ SEO
-
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 
 </p>
 
+### 📊 Project Stats
+
+| Feature | Status |
+|---------|--------|
+| Responsive | ✅ |
+| SEO | ✅ |
+| Speed | 96+ |
+| Mobile Friendly | ✅ |
+| Accessibility | ✅ |
+
 <p align="center">
 
 <a href="https://YOUR-LIVE-LINK.com">
 
-<img src="https://img.shields.io/badge/View_Live-D97706?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
 </a>
 
@@ -247,6 +265,10 @@ Corporate healthcare website with appointment booking, patient testimonials and 
 </td>
 
 </tr>
+
+
+
+
 
 </table>
 
