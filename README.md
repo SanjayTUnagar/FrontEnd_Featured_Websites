@@ -432,9 +432,9 @@ As a dentist in Leeds, Leeds City Dentalcare provides patients with high quality
 # 📈 Project Summary
 <div align="center">
 
-| Total Projects | Responsive Website | Mobile Friendly | SEO Optimation | UI/UX Website |
+| 🌐 Total Projects | 📱 Responsive Website | ⚡ Performance Optimized  | 📲 Mobile Friendly | 🔍 SEO Optimized | 🎨 UI/UX Quality |
 |----------------|-----------|----------------|----------|-------|
-| 150+ | ✅ | ✅ | ✅ | ⭐⭐⭐⭐⭐ |
+| 150+ | ✅ 100% | ✅ 100% | ✅ Optimized | ✅ Best Practices | ⭐⭐⭐⭐⭐ |
 </div>
 
 ---
