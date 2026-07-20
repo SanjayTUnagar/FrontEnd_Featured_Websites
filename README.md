@@ -76,11 +76,11 @@ As a dentist in London, Envy Smile provide our patients with high quality dentis
 
 <td width="50%">
 
-<h2 align="center">🦷 Bere Regis Dental</h2>
+<h2 align="center">🦷 Bere Regis Dental Practice</h2>
 
 <p align="center">
 
-<a href="https://YOUR-LIVE-LINK.com">
+<a href="https://bereregisdental.co.uk/" target="_blank">
 
 
 <img width="100%" alt="bereregisdental" src="https://github.com/user-attachments/assets/fca0f7bd-cb6e-4321-9703-2aafad6773c0" />
@@ -91,7 +91,7 @@ As a dentist in London, Envy Smile provide our patients with high quality dentis
 
 ### 📝 Overview
 
-Professional dental clinic website focused on providing excellent patient experience and responsive healthcare solutions.
+As a Wareham dentist, Bere Regis Dental Practice provide our patients with high quality dentistry using only the latest dental technology and techniques.
 
 ### 🚀 Highlights
 
@@ -123,7 +123,7 @@ Professional dental clinic website focused on providing excellent patient experi
 
 <p align="center">
 
-<a href="https://YOUR-LIVE-LINK.com">
+<a href="https://bereregisdental.co.uk/" target="_blank">
 
 <img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
