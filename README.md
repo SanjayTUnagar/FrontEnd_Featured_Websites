@@ -2,7 +2,7 @@
 
 <p align="center">
 A collection of modern, responsive websites developed with a focus on **UI/UX**, **performance**, **SEO**, **accessibility**, and **mobile-first design**.
-</p>
+
 <div>
 
   | ✨ Feature | 📋 Description |
@@ -30,7 +30,7 @@ A collection of modern, responsive websites developed with a focus on **UI/UX**,
 
   
 </div>
-
+</p>
 ---
 
 <div align="center">
