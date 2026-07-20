@@ -198,14 +198,15 @@ As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high
 
 <td width="50%">
 
-<h2 align="center">🦷 Bere Regis Dental</h2>
+<h2 align="center">🦷 Greenside Dental Care</h2>
 
 <p align="center">
 
-<a href="https://YOUR-LIVE-LINK.com">
+<a href="https://www.greensidedental.co.uk/">
+
+<img width="100%" alt="Greenside Dental Care" src="https://github.com/user-attachments/assets/23a81deb-6d37-4312-8d27-5ed440ee5382" />
 
 
-<img width="100%" alt="bereregisdental" src="https://github.com/user-attachments/assets/fca0f7bd-cb6e-4321-9703-2aafad6773c0" />
 
 </a>
 
@@ -213,7 +214,7 @@ As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high
 
 ### 📝 Overview
 
-Professional dental clinic website focused on providing excellent patient experience and responsive healthcare solutions.
+As a dentist in Cleckheaton, Greenside Dental Care provides patients with high quality dentistry using only the latest dental technology and techniques.
 
 ### 🚀 Highlights
 
@@ -245,7 +246,7 @@ Professional dental clinic website focused on providing excellent patient experi
 
 <p align="center">
 
-<a href="https://oxfordshireendodontist.co.uk/" target="_blank">
+<a href="https://www.greensidedental.co.uk/" target="_blank">
 
 <img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
@@ -256,9 +257,6 @@ Professional dental clinic website focused on providing excellent patient experi
 </td>
 
 </tr>
-
-
-
 
 
 </table>
@@ -281,7 +279,7 @@ Professional dental clinic website focused on providing excellent patient experi
 
 | Total Projects | Responsive | Mobile Friendly | SEO Ready | UI/UX |
 |----------------|-----------|----------------|----------|-------|
-| 4 | ✅ | ✅ | ✅ | ⭐⭐⭐⭐⭐ |
+| 150+ | ✅ | ✅ | ✅ | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -293,7 +291,7 @@ I build **responsive**, **modern**, **SEO-friendly**, and **high-performance** w
 
 <br>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sanjayunagar010@gmail.com">
 
 <img src="https://img.shields.io/badge/Hire_Me-success?style=for-the-badge&logo=gmail">
 
