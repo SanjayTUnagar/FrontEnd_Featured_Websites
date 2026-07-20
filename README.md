@@ -21,7 +21,8 @@ performance, SEO, accessibility and mobile-first design.
 
 <a href="https://www.envysmile.co.uk/" target="_blank" rel="noopener noreferrer">
 
-  <img width="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/cd889eb9-f063-4e47-a5d4-6690fe02257e" />
+<img width="100%" alt="envysmile" src="https://github.com/user-attachments/assets/a4f2883c-5213-40e2-aafa-d3fd0d152683" />
+
 
 </a>
 
@@ -61,7 +62,7 @@ As a dentist in London, Envy Smile provide our patients with high quality dentis
 
 <p align="center">
 
-<a href="https://YOUR-LIVE-LINK.com">
+<a href="https://www.envysmile.co.uk/" target="_blank">
 
 <img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
