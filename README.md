@@ -196,6 +196,128 @@ As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high
 
 </td>
 
+<td width="50%" align="top">
+
+<h2 align="center">🦷 Greenside Dental Care</h2>
+
+<p align="center">
+
+<a href="https://www.greensidedental.co.uk/">
+
+<img width="100%" alt="Greenside Dental Care" src="https://github.com/user-attachments/assets/23a81deb-6d37-4312-8d27-5ed440ee5382" />
+
+
+
+</a>
+
+</p>
+
+### 📝 Overview
+
+As a dentist in Cleckheaton, Greenside Dental Care provides patients with high quality dentistry using only the latest dental technology and techniques.
+
+### 🚀 Highlights
+
+- Responsive Layout
+- Modern Navigation
+- Google Maps
+- Contact Forms
+- Online Registration
+- SEO Ready
+- Optimized Images
+
+### 💻 Built With
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+</p>
+
+### 📊 Project Stats
+
+| Feature | Status |
+|---------|--------|
+| Responsive | ✅ |
+| SEO | ✅ |
+| Speed | 96+ |
+| Mobile Friendly | ✅ |
+| Accessibility | ✅ |
+
+<p align="center">
+
+<a href="https://www.greensidedental.co.uk/" target="_blank">
+
+<img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h2 align="center">🦷 Apex Endodontics </h2>
+
+
+<p align="center">
+<a href="https://oxfordshireendodontist.co.uk/" target="_blank">
+<img width="100%" alt="oxfordshireendodontist" src="https://github.com/user-attachments/assets/20160d39-6531-4ddb-8a9f-79bc2ff08864" />
+</a>
+
+</p>
+
+### 📝 Overview
+<h4>UK Award Winning Website 2025</h4>
+
+As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high quality Endodontistry using only the latest dental technology and techniques. Enquire today.
+
+### 🚀 Highlights
+
+- 🎨 Premium UI Design
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+- 🔍 SEO Friendly
+- 📅 Appointment Booking
+- 💬 Contact Form
+- 🌙 Cross Browser Support
+
+### 💻 Built With
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+</p>
+
+### 📊 Project Stats
+
+| Feature | Status |
+|---------|--------|
+| Responsive | ✅ |
+| SEO | ✅ |
+| Mobile Friendly | ✅ |
+| Performance | 95+ |
+| Accessibility | ✅ |
+
+<p align="center">
+
+<a href="https://oxfordshireendodontist.co.uk/" target="_blank">
+
+<img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
+
+</a>
+
+
+</p>
+
+</td>
+
 <td width="50%">
 
 <h2 align="center">🦷 Greenside Dental Care</h2>
