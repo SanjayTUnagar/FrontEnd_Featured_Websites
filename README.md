@@ -85,7 +85,8 @@ Modern Dental Practice Website with elegant UI, appointment booking, patient inf
 
 <a href="https://YOUR-LIVE-LINK.com">
 
-<img src="assets/projects/bereregisdental.png" width="100%">
+
+<img width="100%" alt="bereregisdental" src="https://github.com/user-attachments/assets/fca0f7bd-cb6e-4321-9703-2aafad6773c0" />
 
 </a>
 
@@ -146,8 +147,8 @@ Professional dental clinic website focused on providing excellent patient experi
 <p align="center">
 
 <a href="https://YOUR-LIVE-LINK.com">
+<img width="100%" alt="bournedenta" src="https://github.com/user-attachments/assets/e6c5608c-0ee8-4098-8897-8c3e466c6dfb" />
 
-<img src="assets/projects/bournedental.png" width="100%">
 
 </a>
 
@@ -199,7 +200,9 @@ Luxury dental website with modern landing page and premium branding.
 
 <a href="https://YOUR-LIVE-LINK.com">
 
-<img src="assets/projects/broadwaydentalcentre.png" width="100%">
+<img width="100%" alt="broadwaydentalcentre" src="https://github.com/user-attachments/assets/fb2246ed-bbbc-4971-a7a4-b02dbf45d514" />
+
+
 
 </a>
 
