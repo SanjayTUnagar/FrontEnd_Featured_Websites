@@ -196,7 +196,7 @@ As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high
 
 </td>
 
-<td width="50%" align="top">
+<td width="50%" valign="top">
 
 <h2 align="center">🦷 Greenside Dental Care</h2>
 
@@ -262,28 +262,30 @@ As a dentist in Cleckheaton, Greenside Dental Care provides patients with high q
 
 <td width="50%">
 
-<h2 align="center">🦷 Apex Endodontics </h2>
+<h2 align="center">🦷 Heyford Smiles Dental Clinic </h2>
 
 
 <p align="center">
-<a href="https://oxfordshireendodontist.co.uk/" target="_blank">
-<img width="100%" alt="oxfordshireendodontist" src="https://github.com/user-attachments/assets/20160d39-6531-4ddb-8a9f-79bc2ff08864" />
+<a href="https://www.heyfordsmiles.co.uk/" target="_blank">
+
+
+  <img width="100%" alt="Heyford Smiles Dental Clinic" src="https://github.com/user-attachments/assets/9029fee0-c55d-4754-bcba-3ff08336d801" />
+
 </a>
 
 </p>
 
 ### 📝 Overview
-<h4>UK Award Winning Website 2025</h4>
 
-As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high quality Endodontistry using only the latest dental technology and techniques. Enquire today.
+
+At Heyford Smiles Dental Clinic near Bicester, our dentists provide our patients with high quality dentistry using the latest dental technology and techniques.
 
 ### 🚀 Highlights
 
-- 🎨 Premium UI Design
 - 📱 Fully Responsive
+- 🎨 Premium UI Design
 - ⚡ Fast Performance
 - 🔍 SEO Friendly
-- 📅 Appointment Booking
 - 💬 Contact Form
 - 🌙 Cross Browser Support
 
@@ -300,14 +302,15 @@ As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high
 | Feature | Status |
 |---------|--------|
 | Responsive | ✅ |
-| SEO | ✅ |
-| Mobile Friendly | ✅ |
 | Performance | 95+ |
+| SEO | ✅ |
 | Accessibility | ✅ |
+| Mobile Friendly | ✅ |
+
 
 <p align="center">
 
-<a href="https://oxfordshireendodontist.co.uk/" target="_blank">
+<a href="https://www.heyfordsmiles.co.uk/" target="_blank">
 
 <img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
