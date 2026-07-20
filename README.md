@@ -19,7 +19,7 @@ performance, SEO, accessibility and mobile-first design.
 
 <p align="center">
 
-<a href="https://www.envysmile.co.uk/" target="_blank">
+<a href="https://www.envysmile.co.uk/" target="_blank" rel="noopener noreferrer">
 
   <img width="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/cd889eb9-f063-4e47-a5d4-6690fe02257e" />
 
