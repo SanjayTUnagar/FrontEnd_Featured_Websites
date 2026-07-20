@@ -1,14 +1,11 @@
 <h1 align="center">🌐 Featured Portfolio Projects</h1>
 
 <p align="center">
-A collection of modern responsive websites developed with a focus on UI/UX, performance, SEO, accessibility and mobile-first design.
+A collection of modern, responsive websites developed with a focus on **UI/UX**, **performance**, **SEO**, **accessibility**, and **mobile-first design**.
 </p>
 <div>
-## 🌐 Featured Portfolio Projects
 
-> A collection of modern, responsive websites developed with a focus on **UI/UX**, **performance**, **SEO**, **accessibility**, and **mobile-first design**.
-
-| ✨ Feature | 📋 Description |
+  | ✨ Feature | 📋 Description |
 |:----------|:---------------|
 | 🎨 **Modern UI/UX** | Clean, intuitive, and visually appealing user interface with a seamless user experience. |
 | 📱 **Responsive Design** | Optimized for desktop, tablet, and mobile devices using a mobile-first approach. |
