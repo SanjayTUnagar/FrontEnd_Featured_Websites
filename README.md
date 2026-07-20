@@ -276,10 +276,12 @@ As a dentist in Cleckheaton, Greenside Dental Care provides patients with high q
 ---
 
 # 📈 Project Summary
+<div align="center">
 
 | Total Projects | Responsive | Mobile Friendly | SEO Ready | UI/UX |
 |----------------|-----------|----------------|----------|-------|
 | 150+ | ✅ | ✅ | ✅ | ⭐⭐⭐⭐⭐ |
+</div>
 
 ---
 
