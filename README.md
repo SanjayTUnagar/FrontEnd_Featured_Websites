@@ -151,7 +151,7 @@ As a Wareham dentist, Bere Regis Dental Practice provide our patients with high 
 </p>
 
 ### 📝 Overview
-<h4>UK Award Winning Website 2025</h4>
+<h4><strong>UK Award Winning Website 2025</strong></h4>
 
 As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high quality Endodontistry using only the latest dental technology and techniques. Enquire today.
 
