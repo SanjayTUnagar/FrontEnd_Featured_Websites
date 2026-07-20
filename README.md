@@ -29,7 +29,7 @@ performance, SEO, accessibility and mobile-first design.
 
 ### 📝 Overview
 
-Modern Dental Practice Website with elegant UI, appointment booking, patient information pages and responsive design.
+As a dentist in London, Envy Smile provide our patients with high quality dentistry using only the latest dental technology and techniques. Enquire today.
 
 ### 🚀 Highlights
 
