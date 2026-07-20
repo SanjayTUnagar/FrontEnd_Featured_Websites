@@ -1,4 +1,4 @@
-## 🌐 Featured Portfolio Websites
+<img width="1600" height="1268" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/c5cbcae2-8c45-41cf-b83a-79cd5cc9ac00" />## 🌐 Featured Portfolio Websites
 
 <div align="center">
 
@@ -20,7 +20,9 @@ Modern • Responsive • Fast Loading • SEO Friendly • Mobile First • Use
 ### 🦷 A&W Dental Clinic
 
 <a href="https://YOUR-LIVE-LINK-1.com" target="_blank">
-<img src="assets/projects/amsel-wilkins.png" width="100%" alt="A&W Dental Website"/>
+
+  <imgwidth="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/77ee7ce3-d66a-428c-a665-e267c609557e" />
+
 </a>
 
 #### 💡 About Project
