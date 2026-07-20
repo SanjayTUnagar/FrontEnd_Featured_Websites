@@ -1,7 +1,8 @@
 <h1 align="center">🌐 Featured Portfolio Projects</h1>
 
-<p align="center">
 A collection of modern, responsive websites developed with a focus on **UI/UX**, **performance**, **SEO**, **accessibility**, and **mobile-first design**.
+
+<p align="center">
 
 <div>
 
