@@ -1,4 +1,4 @@
-<img width="1600" height="1268" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/c5cbcae2-8c45-41cf-b83a-79cd5cc9ac00" />## 🌐 Featured Portfolio Websites
+## 🌐 Featured Portfolio Websites
 
 <div align="center">
 
