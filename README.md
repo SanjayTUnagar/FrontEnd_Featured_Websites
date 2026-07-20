@@ -1,86 +1,137 @@
-## 🌐 Featured Portfolio Websites
+<h1 align="center">🌐 Featured Portfolio Projects</h1>
 
-<div align="center">
-
-<h3>✨ Professional Responsive Websites Developed by Me ✨</h3>
-
-<p>
-Modern • Responsive • Fast Loading • SEO Friendly • Mobile First • User Experience Focused
+<p align="center">
+A collection of modern responsive websites developed with a focus on UI/UX,
+performance, SEO, accessibility and mobile-first design.
 </p>
-
-</div>
 
 ---
 
+<div align="center">
+
 <table>
+
 <tr>
 
-<td width="50%" align="center">
+<td width="50%">
 
-### 🦷 A&W Dental Clinic
+<h2 align="center">🦷 A&W Dental</h2>
 
-<a href="https://YOUR-LIVE-LINK-1.com" target="_blank">
+<p align="center">
 
-  <img width="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/77ee7ce3-d66a-428c-a665-e267c609557e" />
+<a href="https://YOUR-LIVE-LINK.com">
+
+  <img width="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/cd889eb9-f063-4e47-a5d4-6690fe02257e" />
 
 </a>
 
-#### 💡 About Project
+</p>
 
-A modern and elegant responsive website designed for a dental clinic with online appointment booking, treatment pages, blog, and patient-focused user experience.
+### 📝 Overview
 
-**✨ Features**
+Modern Dental Practice Website with elegant UI, appointment booking, patient information pages and responsive design.
 
-✅ Fully Responsive Design  
-✅ Appointment Booking  
-✅ Clean UI/UX  
-✅ SEO Optimized  
-✅ Mobile Friendly  
-✅ Fast Performance
+### 🚀 Highlights
 
-**🛠️ Technologies**
+- 🎨 Premium UI Design
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+- 🔍 SEO Friendly
+- 📅 Appointment Booking
+- 💬 Contact Form
+- 🌙 Cross Browser Support
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 💻 Built With
 
-<a href="https://YOUR-LIVE-LINK-1.com">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+</p>
+
+### 📊 Project Stats
+
+| Feature | Status |
+|---------|--------|
+| Responsive | ✅ |
+| SEO | ✅ |
+| Mobile Friendly | ✅ |
+| Performance | 95+ |
+| Accessibility | ✅ |
+
+<p align="center">
+
+<a href="https://YOUR-LIVE-LINK.com">
+
+<img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
+
 </a>
+
+<a href="https://github.com/YOURUSERNAME">
+
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
+
+</a>
+
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%">
 
-### 🦷 Bere Regis Dental Practice
+<h2 align="center">🦷 Bere Regis Dental</h2>
 
-<a href="https://YOUR-LIVE-LINK-2.com" target="_blank">
-<img src="assets/projects/bereregisdental.png" width="100%" alt="Bere Regis Dental"/>
+<p align="center">
+
+<a href="https://YOUR-LIVE-LINK.com">
+
+<img src="assets/projects/bereregisdental.png" width="100%">
+
 </a>
 
-#### 💡 About Project
+</p>
 
-Professional healthcare website focused on providing excellent dental services with modern responsive design and clean navigation.
+### 📝 Overview
 
-**✨ Features**
+Professional dental clinic website focused on providing excellent patient experience and responsive healthcare solutions.
 
-✅ Responsive Layout  
-✅ Contact Forms  
-✅ Service Pages  
-✅ Google Maps  
-✅ Patient Registration  
-✅ Mobile Optimized
+### 🚀 Highlights
 
-**🛠️ Technologies**
+- Responsive Layout
+- Modern Navigation
+- Google Maps
+- Contact Forms
+- Online Registration
+- SEO Ready
+- Optimized Images
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Built With
 
-<a href="https://YOUR-LIVE-LINK-2.com">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+### 📊 Project Stats
+
+| Feature | Status |
+|---------|--------|
+| Responsive | ✅ |
+| SEO | ✅ |
+| Speed | 96+ |
+| Mobile Friendly | ✅ |
+| Accessibility | ✅ |
+
+<p align="center">
+
+<a href="https://YOUR-LIVE-LINK.com">
+
+<img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
+
 </a>
+
+</p>
 
 </td>
 
@@ -88,68 +139,107 @@ Professional healthcare website focused on providing excellent dental services w
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%">
 
-### 🦷 Bourne Dental
+<h2 align="center">🦷 Bourne Dental</h2>
 
-<a href="https://YOUR-LIVE-LINK-3.com" target="_blank">
-<img src="assets/projects/bournedental.png" width="100%" alt="Bourne Dental"/>
+<p align="center">
+
+<a href="https://YOUR-LIVE-LINK.com">
+
+<img src="assets/projects/bournedental.png" width="100%">
+
 </a>
 
-#### 💡 About Project
+</p>
 
-Luxury dental practice website with premium branding, appointment system, responsive layouts, and engaging landing page.
+### 📝 Overview
 
-**✨ Features**
+Luxury dental website with modern landing page and premium branding.
 
-✅ Premium UI Design  
-✅ Smooth Animation  
-✅ Booking CTA  
-✅ Responsive Design  
-✅ SEO Friendly
+### ⭐ Features
 
-**🛠️ Technologies**
+✔ Responsive Design
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+✔ Premium Hero Section
 
-<a href="https://YOUR-LIVE-LINK-3.com">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+✔ CTA Buttons
+
+✔ Google Reviews
+
+✔ Booking System
+
+✔ Testimonials
+
+✔ SEO Optimized
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://YOUR-LIVE-LINK.com">
+
+<img src="https://img.shields.io/badge/View_Live-D97706?style=for-the-badge">
+
 </a>
+
+</p>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%">
 
-### 🦷 Broadway Dental Centre
+<h2 align="center">🦷 Broadway Dental Centre</h2>
 
-<a href="https://YOUR-LIVE-LINK-4.com" target="_blank">
-<img src="assets/projects/broadwaydentalcentre.png" width="100%" alt="Broadway Dental Centre"/>
+<p align="center">
+
+<a href="https://YOUR-LIVE-LINK.com">
+
+<img src="assets/projects/broadwaydentalcentre.png" width="100%">
+
 </a>
 
-#### 💡 About Project
+</p>
 
-Corporate dental website with premium responsive layout, appointment booking, testimonials, and modern user experience.
+### 📝 Overview
 
-**✨ Features**
+Corporate healthcare website with appointment booking, patient testimonials and responsive layout.
 
-✅ Responsive Website  
-✅ Appointment Booking  
-✅ Testimonials  
-✅ Modern Layout  
-✅ Fast Loading  
-✅ SEO Optimized
+### ⭐ Features
 
-**🛠️ Technologies**
+✔ Responsive
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+✔ Appointment Booking
 
-<a href="https://YOUR-LIVE-LINK-4.com">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge"/>
+✔ Reviews
+
+✔ Services
+
+✔ Gallery
+
+✔ Contact
+
+✔ SEO
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://YOUR-LIVE-LINK.com">
+
+<img src="https://img.shields.io/badge/View_Live-D97706?style=for-the-badge">
+
 </a>
+
+</p>
 
 </td>
 
@@ -157,16 +247,52 @@ Corporate dental website with premium responsive layout, appointment booking, te
 
 </table>
 
+</div>
+
+---
+
+# 🛠️ Development Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,vscode,git,github"/>
+
+</p>
+
+---
+
+# 📈 Project Summary
+
+| Total Projects | Responsive | Mobile Friendly | SEO Ready | UI/UX |
+|----------------|-----------|----------------|----------|-------|
+| 4 | ✅ | ✅ | ✅ | ⭐⭐⭐⭐⭐ |
+
 ---
 
 <div align="center">
 
-### 🚀 More Projects Coming Soon
+## 💬 Looking for a Professional Website?
 
-<p>
+I build **responsive**, **modern**, **SEO-friendly**, and **high-performance** websites for businesses and personal brands.
 
-⭐ Responsive Web Design • UI/UX • Frontend Development • Portfolio Websites • Business Websites • Landing Pages ⭐
+<br>
 
-</p>
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Hire_Me-success?style=for-the-badge&logo=gmail">
+
+</a>
+
+<a href="https://www.linkedin.com/in/sanjayunagar">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+
+</a>
+
+<a href="https://github.com/SanjayTUnagar">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+</a>
 
 </div>
