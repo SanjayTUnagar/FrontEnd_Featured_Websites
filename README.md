@@ -9,6 +9,7 @@ A collection of modern, responsive websites developed with a focus on **UI/UX**,
   | ✨ Feature | 📋 Description |
 |:----------|:---------------|
 | 🎨 **Modern UI/UX** | Clean, intuitive, and visually appealing user interface with a seamless user experience. |
+| 🛠️ **Modern Tech Stack** | Built with HTML5, CSS3, JavaScript, JQuary, Bootstrap3/4/5, PHP  modern libraries.|
 | 📱 **Responsive Design** | Optimized for desktop, tablet, and mobile devices using a mobile-first approach. |
 | ⚡ **High Performance** | Fast loading speed through optimized images, assets, and efficient code. |
 | 🔍 **SEO Friendly** | Semantic HTML, meta tags, structured data, xenu, Screaming Frog SEO Spider tool and search engine optimization best practices. |
