@@ -21,7 +21,7 @@ Modern • Responsive • Fast Loading • SEO Friendly • Mobile First • Use
 
 <a href="https://YOUR-LIVE-LINK-1.com" target="_blank">
 
-  <imgwidth="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/77ee7ce3-d66a-428c-a665-e267c609557e" />
+  <img width="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/77ee7ce3-d66a-428c-a665-e267c609557e" />
 
 </a>
 
