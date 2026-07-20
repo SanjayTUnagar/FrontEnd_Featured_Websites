@@ -323,15 +323,13 @@ At Heyford Smiles Dental Clinic near Bicester, our dentists provide our patients
 
 <td width="50%">
 
-<h2 align="center">🦷 Greenside Dental Care</h2>
+<h2 align="center">🦷 Leeds City Dentalcare</h2>
 
 <p align="center">
 
-<a href="https://www.greensidedental.co.uk/">
+<a href="https://www.leedscitydentalcare.co.uk/">
 
-<img width="100%" alt="Greenside Dental Care" src="https://github.com/user-attachments/assets/23a81deb-6d37-4312-8d27-5ed440ee5382" />
-
-
+<img width="100%" alt="Leeds City Dentalcare" src="https://github.com/user-attachments/assets/448b92fc-ed94-425d-9b3b-01f742d5ca86" />
 
 </a>
 
@@ -339,7 +337,7 @@ At Heyford Smiles Dental Clinic near Bicester, our dentists provide our patients
 
 ### 📝 Overview
 
-As a dentist in Cleckheaton, Greenside Dental Care provides patients with high quality dentistry using only the latest dental technology and techniques.
+As a dentist in Leeds, Leeds City Dentalcare provides patients with high quality dentistry using only the latest dental technology and techniques. Contact us.
 
 ### 🚀 Highlights
 
@@ -371,7 +369,7 @@ As a dentist in Cleckheaton, Greenside Dental Care provides patients with high q
 
 <p align="center">
 
-<a href="https://www.greensidedental.co.uk/" target="_blank">
+<a href="https://www.leedscitydentalcare.co.uk/">
 
 <img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
