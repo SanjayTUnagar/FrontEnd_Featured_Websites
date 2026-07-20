@@ -10,7 +10,7 @@ A collection of modern, responsive websites developed with a focus on **UI/UX**,
 | 🎨 **Modern UI/UX** | Clean, intuitive, and visually appealing user interface with a seamless user experience. |
 | 📱 **Responsive Design** | Optimized for desktop, tablet, and mobile devices using a mobile-first approach. |
 | ⚡ **High Performance** | Fast loading speed through optimized images, assets, and efficient code. |
-| 🔍 **SEO Friendly** | Semantic HTML, meta tags, structured data, and search engine optimization best practices. |
+| 🔍 **SEO Friendly** | Semantic HTML, meta tags, structured data, xenu, Screaming Frog SEO Spider tool and search engine optimization best practices. |
 | ♿ **Accessibility** | Built following WCAG accessibility standards for inclusive user experiences. |
 | 🚀 **Mobile First** | Designed to provide an exceptional experience across all screen sizes. |
 | 💻 **Cross-Browser Compatible** | Fully tested on Chrome, Edge, Firefox, Safari, and Opera browsers. |
@@ -19,6 +19,8 @@ A collection of modern, responsive websites developed with a focus on **UI/UX**,
 | ✨ **Interactive Experience** | Smooth animations, transitions, hover effects, and engaging user interactions. |
 | 🌙 **Modern Design** | Professional layouts with contemporary design trends and premium aesthetics. |
 | 📊 **Data-Driven Solutions** | Designed to solve real-world business challenges with practical implementations. |
+| 🎯 **Problem Solving** | Practical solutions demonstrating analytical thinking and technical expertise. |
+| 🧪 **Quality Assurance** | Tested for responsiveness, usability, and browser compatibility. |
 | 📈 **Performance Optimized** | Optimized Core Web Vitals for enhanced speed and user engagement. |
 | 🛠️ **Modern Technologies** | Built using HTML5, CSS3, JavaScript, Bootstrap, React, and other modern frameworks. |
 | 🔒 **Best Practices** | Secure coding standards with maintainable and scalable project architecture. |
@@ -27,11 +29,12 @@ A collection of modern, responsive websites developed with a focus on **UI/UX**,
 | 📚 **Documentation** | Comprehensive README with installation, usage, and project details. |
 | 🔄 **Version Control** | Managed using Git & GitHub with proper commit history and collaboration workflow. |
 | 🏆 **Production Ready** | Developed using professional development standards and deployment practices. |
+| 🎓 **Continuous Learning** | Incorporates the latest web technologies, frameworks, and industry trends. |
 
   
 </div>
 </p>
----
+
 
 <div align="center">
 
