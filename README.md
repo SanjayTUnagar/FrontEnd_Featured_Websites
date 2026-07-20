@@ -185,7 +185,7 @@ As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high
 
 <p align="center">
 
-<a href="https://oxfordshireendodontist.co.uk/ target="_blank">
+<a href="https://oxfordshireendodontist.co.uk/" target="_blank">
 
 <img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
