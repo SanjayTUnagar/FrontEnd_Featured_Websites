@@ -15,11 +15,11 @@ performance, SEO, accessibility and mobile-first design.
 
 <td width="50%">
 
-<h2 align="center">🦷 A&W Dental</h2>
+<h2 align="center">🦷 Envy Smile</h2>
 
 <p align="center">
 
-<a href="https://YOUR-LIVE-LINK.com">
+<a href="https://www.envysmile.co.uk/" target="_blank">
 
   <img width="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/cd889eb9-f063-4e47-a5d4-6690fe02257e" />
 
@@ -67,11 +67,7 @@ Modern Dental Practice Website with elegant UI, appointment booking, patient inf
 
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
 
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
-
-</a>
 
 </p>
 
@@ -195,11 +191,6 @@ Modern Dental Practice Website with elegant UI, appointment booking, patient inf
 
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
-
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github">
-
-</a>
 
 </p>
 
