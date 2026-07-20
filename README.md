@@ -140,13 +140,17 @@ As a Wareham dentist, Bere Regis Dental Practice provide our patients with high 
 
 <td width="50%">
 
-<h2 align="center">🦷 A&W Dental</h2>
+<h2 align="center">🦷 Apex Endodontics </h2>
+<h4>UK Award Winning Website 2025</h4>
 
 <p align="center">
 
-<a href="https://YOUR-LIVE-LINK.com">
+<a href="https://oxfordshireendodontist.co.uk/ target="_blank">
 
-  <img width="100%" alt="amsel-wilkins" src="https://github.com/user-attachments/assets/cd889eb9-f063-4e47-a5d4-6690fe02257e" />
+<img width="100%" alt="oxfordshireendodontist" src="https://github.com/user-attachments/assets/20160d39-6531-4ddb-8a9f-79bc2ff08864" />
+
+
+ 
 
 </a>
 
@@ -154,7 +158,7 @@ As a Wareham dentist, Bere Regis Dental Practice provide our patients with high 
 
 ### 📝 Overview
 
-Modern Dental Practice Website with elegant UI, appointment booking, patient information pages and responsive design.
+As a Endodontist in Oxfordshire, Apex Endodontics provide our patients with high quality Endodontistry using only the latest dental technology and techniques. Enquire today.
 
 ### 🚀 Highlights
 
@@ -186,7 +190,7 @@ Modern Dental Practice Website with elegant UI, appointment booking, patient inf
 
 <p align="center">
 
-<a href="https://YOUR-LIVE-LINK.com">
+<a href="https://oxfordshireendodontist.co.uk/ target="_blank">
 
 <img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
@@ -246,7 +250,7 @@ Professional dental clinic website focused on providing excellent patient experi
 
 <p align="center">
 
-<a href="https://YOUR-LIVE-LINK.com">
+<a href="https://oxfordshireendodontist.co.uk/" target="_blank">
 
 <img src="https://img.shields.io/badge/🌍_Live_Website-00C853?style=for-the-badge">
 
