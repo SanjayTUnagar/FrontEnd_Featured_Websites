@@ -107,7 +107,7 @@ As a Wareham dentist, Bere Regis Dental Practice provide our patients with high 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
 
 </p>
 
@@ -230,7 +230,7 @@ As a dentist in Cleckheaton, Greenside Dental Care provides patients with high q
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
 
 </p>
 
